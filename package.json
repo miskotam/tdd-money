@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "jasmine": "^3.6.4"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "dependencies": {
+    "jslint": "^0.12.1"
+  }
+}
